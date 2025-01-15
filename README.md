@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou PHELIPE LEANDRO ALVES OLIVEIRA</h1>
-<h3 align="center">Estou visitando ADS-FACULDADE-SENAC, RECIFE,BRASIL</h3>
+<h1 align="center">Olá 👋</h1>
+<h3 align="center">Bem-vindo ao meu GitHub! Sou o Phelipe, graduando em Análise e Desenvolvimento de Sistemas pelo SENAC Recife. Estou mergulhando no mundo da programação e aprendendo Python, HTML, CSS e JavaScript. Aqui você vai encontrar projetos e soluções que estou desenvolvendo ao longo da minha jornada. Fique à vontade para explorar, aprender e colaborar! Vamos juntos evoluir no mundo da tecnologia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phelipe-oliveira04&label=Profile%20views&color=0e75b6&style=flat" alt="phelipe-oliveira04" /> </p>
 
